@@ -36,7 +36,7 @@ Plugin | Entwickler
 [Informationsseite (einfach)](http://www.cls-design.com/forum/index.php?page=DatabaseItem&id=155) | [cls-design](http://www.cls-design.com)
 [Informationsseite (erweitert)](http://www.cls-design.com/forum/index.php?page=DatabaseItem&id=157) | [cls-design](http://www.cls-design.com)
 [Kennzeichnung gesperrter Benutzer im Profil und der Seitenleiste ihrer Beiträge](http://wbb-center.de/download/index.php?page=Entry&entryID=781) | [norse](http://wbb-center.de)
-[Kontaktformluar](http://www.cls-design.com/forum/index.php?page=DatabaseItem&id=156) | [Jeffrey Reichardt (Kiv)](http://devlabor.com/)
+[Kontaktformluar](http://www.cls-design.com/forum/index.php?page=DatabaseItem&id=156) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/)
 [LanguageItemAddForm](http://beta.woltlab.com/filebase/index.php/File/83-LanguageItemAddForm/) | [rs90](http://beta.woltlab.com/index.php/User/720-rs90/)
 [Mitgliederliste (WBB3-Style)](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [Myvideo Profilfeld](http://beta.woltlab.com/filebase/index.php/File/47-Myvideo-Profilfeld/) | [Stubs](http://wbb-center.net/)
@@ -90,6 +90,7 @@ Plugin | Entwickler
 ### Anwendungen
 Plugin | Entwickler
 :--- | ---:
+[Guilded 2.0](https://github.com/guilded-gms/) | [Jeffrey Reichardt (Kiv)](http://guilded.eu/)
 [Link-Liste](http://beta.woltlab.com/filebase/index.php/File/8-Linkliste/) | [Jens Krumsieck (Jenso)](http://codequake.de)
 [News-System](http://beta.woltlab.com/filebase/index.php/File/49-voolia-News-System/) | [voolia](http://www.voolia.de/)
 [Tims Chat 3](http://tims.bastelstu.be/woltlab%C2%AE-community-framework%E2%84%A2/chat-timwolla-wcf-chat/thread732-testversion-wcf-2-chat/) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
@@ -153,7 +154,7 @@ Plugin | Entwickler | System
 :--- | :--- | ---:
 V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Akismet](https://github.com/wbbaddons/Akismet) | [Markus Zhang (RouL)](http://codingcorner.info/) | WCF
-[Bezahlbare Mitgliedschaften](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [Jeffrey Reichardt (Kiv)](http://guilded.eu/) | WCF
+[Bezahlbare Mitgliedschaften](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/) | WCF
 [Botcheck](https://github.com/wbbaddons/Botcheck) | [Markus Zhang (RouL)](http://codingcorner.info/) | WCF
 [Bugtracker](http://www.web-produktion.com/board/board1-allgemein/board31-nachrichten-und-ank%C3%BCndigungen/723-web-produktion-und-das-wcf-2-0-wbb-4-0/) | [web-produktion](http://www.web-produktion.com) | EA
 [cChat](http://beta.woltlab.com/index.php/Thread/1181-cChat-WIP/) | [Christopher Walz](http://www.cwalz.de/) | WCF
@@ -161,7 +162,7 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Dateisystem] (http://beta.woltlab.com/index.php/Thread/4359-Dateisystem-0-1-by-Sick) | [sick^](http://beta.woltlab.com/index.php/User/750-Sick/) | EA
 [EasyLink v1](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6439) | [Cr@@gle](http://www.cls-design.com) | WCF
 [Easyslider v2](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6329) | [Cr@@gle](http://www.cls-design.com) | WCF
-[Erfolgssystem](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [Jeffrey Reichardt (Kiv)](http://guilded.eu/) | WCF
+[Erfolgssystem 2.0](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/) | WCF
 [Externer Cronjob-Aufruf](http://beta.woltlab.com/filebase/index.php/File/51-Externer-Cronjob-Aufruf/) | [Dominik Auracher (dominik4545)](https://www.ltb-labs.de/) | WCF
 [FAQ](http://www.web-produktion.com/board/board1-allgemein/board31-nachrichten-und-ank%C3%BCndigungen/723-web-produktion-und-das-wcf-2-0-wbb-4-0/) | [web-produktion](http://www.web-produktion.com) | WCF
 [Fireball CMS](http://beta.woltlab.com/filebase/index.php/File/88-Fireball-CMS/) | [Jens Krumsieck (Jenso)](http://codequake.de/) | WCF
@@ -188,7 +189,7 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Tapatalk](https://github.com/tapatalk/wbb) | [Tapatalk](http://tapatalk.com/) | WBB
 [Teaser-Box 2](https://kittblog.com/board/board1-das-projekt/board42-das-kommt-bald/2631-teaser-box-2-entwicklung/) | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Terms of use / Nutzungsbedingungen](https://github.com/SoftCreatR/TermsOfUse) | [Sascha Greuel (SoftCreatR)](https://www.softcreatr.de/) | WCF
-[Trophäen](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [Jeffrey Reichardt (Kiv)](http://guilded.eu/) | WCF
+[Trophäen 2.0](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/) | WCF
 [Ultimate CMS](https://github.com/frmwrk123/de.plugins-zum-selberbauen.ultimate) | [frmwrk123 (Jim Martens)](http://www.plugins-zum-selberbauen.de/) | EA
 [Web Analytics](https://www.viecode.com/products/analytics/) | [VieCode](https://www.viecode.com/) | WCF
 [Webdisk](https://www.viecode.com/support/board1-allgemein/board2-ankündigungen-und-updates/8222-webdisk-2-0-wcf-2-0-ankündigung/) | [VieCode](https://www.viecode.com/) | EA

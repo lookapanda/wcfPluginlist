@@ -116,6 +116,7 @@ Plugin | Entwickler
 ### Stile
 Stil | Entwickler
 :--- | ---:
+[AwesomePearl](http://beta.woltlab.com/filebase/index.php/File/115-WBB-4-Theme-AwesomePearl/) | [Gino Zantarelli](http://www.bmuniverse.com/zantarelli/)
 [Battlefield 4 Stil](http://beta.woltlab.com/filebase/index.php/File/111-Battlefield-4/) | [Dietmar Sobotzki (ruhrpottbobo)](http://www.rpb-web.net)
 [blue](http://beta.woltlab.com/filebase/index.php/File/95-blue/) | [Dietmar Sobotzki (ruhrpottbobo)](http://www.rpb-web.net)
 [Design - clear](http://beta.woltlab.com/filebase/index.php/File/102-Design-clear/) | [pash](http://wewexmedia.de/)

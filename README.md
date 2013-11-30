@@ -182,7 +182,6 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Registrierung Aktivierung Zeit](https://jd-net.eu/filebase/index.php/File/5-Registrierung-Aktivierung-Zeit/) | [Marco Daries (JD-Net)](https://jd-net.eu) | WCF
 [Security System Premium](https://www.viecode.com/support/board1-allgemein/board2-ank%C3%BCndigungen-und-updates/7934-wcf2-entwicklung/) | [VieCode](https://www.viecode.com/) | WCF
 [SEO](http://beta.woltlab.com/index.php/Thread/3842-SEO-Plugin-Beta-1) | [Thomas Schlage (Sick^)](http://www.stagetwo.eu/) | WCF
-[Shoutbox](http://voolia.de/news/index.php/News/15-Auf-zu-neuen-Ufern-%C3%9Cbernahme-der-Shoutbox/) | [voolia](http://www.voolia.de/) | WCF
 [SocialSharePrivacy](https://kittblog.com/board/board1-das-projekt/board42-das-kommt-bald/2786-social-share-privacy-2-klicks-f%C3%BCr-mehr-datenschutz-entwicklung/) | [Matthias Kittsteiner (BlackRider)](https://kittblog.com/) | WCF
 [SpendenPlugin](http://www.cwalz.de/forum/board1-wbb-wcf-plugins-designs-support/board18-paypal-spende-donation/616-spenden-plugin-fuer-das-wbb-4/)  | [Christopher Walz](http://www.cwalz.de/) | WCF
 [StopForumSpam](https://github.com/SoftCreatR/StopForumSpam) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/) | WCF

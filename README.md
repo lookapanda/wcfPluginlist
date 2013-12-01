@@ -7,6 +7,7 @@ Eine Übersicht von der WoltLab Community entwickelten Plugins für das WoltLab 
 Plugin | Entwickler
 :--- | ---:
 ["Wer war online?"-Liste](http://beta.woltlab.com/filebase/index.php/File/40-„Wer-war-online“-Liste/) | [voolia](http://www.voolia.de)
+[Adventskalender](http://beta.woltlab.com/filebase/index.php/File/118-Adventskalender/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [AboutUs](http://www.gegeek.net/index.php/Thread/11-AboutUs-plugin/?postID=13#post13) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
 [Additional Disclaimer](http://www.pccenergie.de/index.php/Thread/8529-Additional-Disclaimer-WBB4-Plugin/?postID=16481#post16481) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
 [AdvertismentSystem](http://www.gegeek.net/index.php/Thread/13-Plugin-syst%C3%A8me-de-publicit%C3%A9/?postID=15#post15) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)

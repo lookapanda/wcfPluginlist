@@ -202,6 +202,7 @@ Paket | Entwickler
 [Dummy App](https://github.com/wbbaddons/Dummy-App) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [Faker](https://github.com/wbbaddons/Faker) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [jCounter](https://github.com/wbbaddons/jCounter) | [Maximilian Mader (Max)](http://max.bastelstu.be/)
+[MediaEmbed.js Integration](http://beta.woltlab.com/filebase/index.php/File/119-Entwickler-MediaEmbed-js-Integration/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [nodePush](https://github.com/wbbaddons/nodePush) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [PHPExcel](http://beta.woltlab.com/filebase/index.php/File/62-Entwicklerpaket-PHPExcel/) | [Magnus Kühn (MeinAccount)](http://beta.woltlab.com/index.php/User/225-MeinAccount/)
 [Paketserver](https://github.com/wbbaddons/Tims-PackageServer) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)

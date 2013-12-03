@@ -96,23 +96,24 @@ Plugin | Entwickler
 [News-System](http://beta.woltlab.com/filebase/index.php/File/49-voolia-News-System/) | [voolia](http://www.voolia.de/)
 [Tims Chat 3](http://tims.bastelstu.be/woltlab%C2%AE-community-framework%E2%84%A2/chat-timwolla-wcf-chat/thread732-testversion-wcf-2-chat/) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 
-### BB-Codes
+### BBCodes
 Plugin | Entwickler
 :--- | ---:
-[BB-Code: Blizzard Bluepost](https://kittblog.com/board/database/woltlab%C2%AE-community-framework%C2%A9/plugins/80-bbcode-bluepost/index.html) | [Florian Lauterbach](https://github.com/WCF-Community)
-[BB-Code: ebayArtikel](http://www.pccenergie.de/index.php/Thread/8554-BBCode-ebayArtikel-WBB4-Plugin/?postID=16531#post16531) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
-[BB-Code: Edit](http://www.mobahner.com/wcf2test/wbb/index.php/Thread/82-EditBBCode/) | [dargott](http://www.wcf4you.com/)
-[BB-Code: Google Suche](http://www.pccenergie.de/index.php/Thread/8551-BBCode-Google-Suche-WBB4-Plugin/?postID=16524#post16524) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
-[BB-Code: Headline](http://beta.woltlab.com/filebase/index.php/File/32-Headline-BBCode/) | [ray176](http://beta.woltlab.com/index.php/User/33-ray176/)
-[BB-Code: Hidehack](http://beta.woltlab.com/filebase/index.php/File/75-BBcode-HideHack/) | [Colin Weber  (geramy92)](http://terratex.eu/)
-[BB-Code: Ironie](http://wbb-center.de/download/index.php?page=Entry&entryID=782) | [norse](http://wbb-center.de)
-[BB-Code: Paket](http://wbb-center.de/download/index.php?page=Entry&entryID=783) | [norse](http://wbb-center.de)
-[BB-Code: Progressbar](http://beta.woltlab.com/filebase/index.php/File/25-Progressbar-BBcode/) | [Colin Weber  (geramy92)](http://terratex.eu/)
-[BB-Code: QR](http://beta.woltlab.com/filebase/index.php/File/43-QR-BBCode/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
-[BB-Code: Quelle](http://www.mobahner.com/wcf2test/wbb/index.php/Thread/86-Quelle-BBCode/) | [dargott](http://www.wcf4you.com/)
-[BB-Code: Tabmenu](http://beta.woltlab.com/filebase/index.php/File/27-BBCode-Tabmenu/) | [Michael Ilsemann (Michael Ils)](http://www.cafe-anime.de/)
-[BB-Code: Tabmenu](http://beta.woltlab.com/filebase/index.php/File/31-Tabmenu-BBCode/) | [Colin Weber  (geramy92)](http://terratex.eu/)
-[BB-Code: Wikipedia](http://www.pccenergie.de/index.php/Thread/8550-BBCode-Wikipedia-WBB4-Plugin/?postID=16523#post16523) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
+[BBCode: Blizzard Bluepost](https://kittblog.com/board/database/woltlab%C2%AE-community-framework%C2%A9/plugins/80-bbcode-bluepost/index.html) | [Florian Lauterbach](https://github.com/WCF-Community)
+[BBCode: ebayArtikel](http://www.pccenergie.de/index.php/Thread/8554-BBCode-ebayArtikel-WBB4-Plugin/?postID=16531#post16531) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
+[BBCode: Edit](http://www.mobahner.com/wcf2test/wbb/index.php/Thread/82-EditBBCode/) | [dargott](http://www.wcf4you.com/)
+[BBCode: Google Suche](http://www.pccenergie.de/index.php/Thread/8551-BBCode-Google-Suche-WBB4-Plugin/?postID=16524#post16524) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
+[BBCode: Headline](http://beta.woltlab.com/filebase/index.php/File/32-Headline-BBCode/) | [ray176](http://beta.woltlab.com/index.php/User/33-ray176/)
+[BBCode: Hidehack](http://beta.woltlab.com/filebase/index.php/File/75-BBcode-HideHack/) | [Colin Weber  (geramy92)](http://terratex.eu/)
+[BBCode: Ironie](http://wbb-center.de/download/index.php?page=Entry&entryID=782) | [norse](http://wbb-center.de)
+[BBCode: Paket](http://wbb-center.de/download/index.php?page=Entry&entryID=783) | [norse](http://wbb-center.de)
+[BBCode: PDF](http://beta.woltlab.com/filebase/index.php/File/122-PDF-BBCode/) | [Stubs](http://wbb-center.net/)
+[BBCode: Progressbar](http://beta.woltlab.com/filebase/index.php/File/25-Progressbar-BBcode/) | [Colin Weber  (geramy92)](http://terratex.eu/)
+[BBCode: QR](http://beta.woltlab.com/filebase/index.php/File/43-QR-BBCode/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
+[BBCode: Quelle](http://www.mobahner.com/wcf2test/wbb/index.php/Thread/86-Quelle-BBCode/) | [dargott](http://www.wcf4you.com/)
+[BBCode: Tabmenu](http://beta.woltlab.com/filebase/index.php/File/27-BBCode-Tabmenu/) | [Michael Ilsemann (Michael Ils)](http://www.cafe-anime.de/)
+[BBCode: Tabmenu](http://beta.woltlab.com/filebase/index.php/File/31-Tabmenu-BBCode/) | [Colin Weber  (geramy92)](http://terratex.eu/)
+[BBCode: Wikipedia](http://www.pccenergie.de/index.php/Thread/8550-BBCode-Wikipedia-WBB4-Plugin/?postID=16523#post16523) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
 
 ### Stile
 Stil | Entwickler

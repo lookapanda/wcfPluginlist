@@ -77,6 +77,7 @@ Plugin | Entwickler
 [Mehrere Ranggrafiken für das Wbb 4](http://beta.woltlab.com/filebase/index.php/File/104-Mehrere-Ranggrafiken-f%C3%BCr-das-Wbb-4/) | [Olaf Braun (Cyberghost)](http://wbb-elite.de/)
 [Thread Highlighting](http://beta.woltlab.com/filebase/index.php/File/68-Thread-Highlighting/) | [Marco Kittel (marco1705)](http://wcfplugins.de/)
 [Thread Status Icons (Font Awesome)](http://beta.woltlab.com/filebase/index.php/File/69-Thread-Status-Icons-Font-Awesome/) | [Marco Kittel (marco1705)](http://wcfplugins.de/)
+[WBB4 reCaptcha](http://beta.woltlab.com/filebase/index.php/File/123-WBB4-reCaptcha/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 
 ### Community Blog
 Plugin | Entwickler

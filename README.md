@@ -210,5 +210,6 @@ Paket | Entwickler
 [Paketserver](https://github.com/wbbaddons/Tims-PackageServer) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [QR](https://github.com/wbbaddons/QR) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [RemoveLanguage](http://beta.woltlab.com/filebase/index.php/File/120-ENTWICKLERPAKET-Remove-old-Language-variables-PIP/) | [Jan Altensen (Stricted)](http://stricted.de/)
+[Remove old Files PIP](http://beta.woltlab.com/filebase/index.php/File/124-ENTWICKLERPAKET-Remove-old-Files-PIP/) | [Jan Altensen (Stricted)](http://stricted.de/)
 [Signer](https://github.com/wbbaddons/Signer) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [Temporäre Nutzergruppe](http://beta.woltlab.com/filebase/index.php/File/84-Tempor%C3%A4re-Nutzergruppe/) | [Joshua Rüsweg (Josh)](http://www.joshsboard.de/)

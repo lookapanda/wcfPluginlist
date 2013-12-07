@@ -21,6 +21,7 @@ Plugin | Entwickler
 [Benutzerprofilfeld YouTube](http://forum.krymonity.de/filebase/index.php/File/1-Benutzerprofilfeld-YouTube/) | [Niklas Gerstner (Krymonota)](http://krymonity.de/)
 [Custom Message](http://beta.woltlab.com/filebase/index.php/File/61-Custom-Message/) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
 [Custom Pages](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
+[Community Icons](http://beta.woltlab.com/filebase/index.php/File/125-Community-Icons/) | [René Fritzsche (renegate98)](http://www.orlando-forum.de/)
 [Dailymotion.com Profilfeld](http://beta.woltlab.com/filebase/index.php/File/46-Dailymotion-com-Profilfeld/) | [Stubs](http://wbb-center.net/)
 [Dashboard Custom Boxes](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [Einfache Seite](https://community4wcf.eu/forum/board17-support/board5-tobias/board9-sonstige-erweiterungen/2696-simple-page-einfache-seite-wcf2/) | [Tobias Hargesheimer (Tobias)](https://community4wcf.eu)

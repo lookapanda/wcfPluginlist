@@ -7,15 +7,12 @@ Eine Übersicht von der WoltLab Community entwickelten Plugins für das WoltLab 
 Plugin | Entwickler
 :--- | ---:
 ["Wer war online?"-Liste](http://beta.woltlab.com/filebase/index.php/File/40-„Wer-war-online“-Liste/) | [voolia](http://www.voolia.de)
-[Adventskalender](http://beta.woltlab.com/filebase/index.php/File/118-Adventskalender/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [AboutUs](http://www.gegeek.net/index.php/Thread/11-AboutUs-plugin/?postID=13#post13) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
 [Additional Disclaimer](http://www.pccenergie.de/index.php/Thread/8529-Additional-Disclaimer-WBB4-Plugin/?postID=16481#post16481) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
 [AdvertismentSystem](http://www.gegeek.net/index.php/Thread/13-Plugin-syst%C3%A8me-de-publicit%C3%A9/?postID=15#post15) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
 [Battlefield Soldateninfo](http://beta.woltlab.com/filebase/index.php/File/100-Battlefield-Soldateninfo/) | [Simon Nußbaumer (doenervich)](http://board.thurnax.com/)
 [Begrüßung Laufschrift](http://wbb-center.de/download/index.php?page=Entry&entryID=775) | [Sonlong](http://wbb-center.de/)
 [Benutzergruppe kopieren](https://jd-net.eu/filebase/index.php/File/6-Benutzergruppe-kopieren/) | [Marco Daries (JD-Net)](https://jd-net.eu)
-[Benutzergruppen in Mitgliederliste verstecken](http://beta.woltlab.com/filebase/index.php/File/64-Benutzergruppen-in-Mitgliederliste-verstecken/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
-[Benutzergruppenzuordnung bei der Registrierung](http://beta.woltlab.com/filebase/index.php/File/66-Benutzergruppenzuordnung-bei-der-Registrierung/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [Benutzerprofilfeld Minecraft](http://forum.krymonity.de/filebase/index.php/File/2-Benutzerprofilfeld-Minecraft/) | [Niklas Gerstner (Krymonota)](http://krymonity.de/)
 [Benutzerprofilfeld Xbox Live (mit Icon)](http://beta.woltlab.com/filebase/index.php/File/96-Benutzerprofilfeld-Xbox-Live-mit-Icon/) | [René Fritzsche (renegate98)](http://www.orlando-forum.de/)
 [Benutzerprofilfeld YouTube](http://forum.krymonity.de/filebase/index.php/File/1-Benutzerprofilfeld-YouTube/) | [Niklas Gerstner (Krymonota)](http://krymonity.de/)
@@ -42,19 +39,13 @@ Plugin | Entwickler
 [LanguageItemAddForm](http://beta.woltlab.com/filebase/index.php/File/83-LanguageItemAddForm/) | [rs90](http://beta.woltlab.com/index.php/User/720-rs90/)
 [Mitgliederliste (WBB3-Style)](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [Myvideo Profilfeld](http://beta.woltlab.com/filebase/index.php/File/47-Myvideo-Profilfeld/) | [Stubs](http://wbb-center.net/)
-[NoDelayedRedirect](http://beta.woltlab.com/filebase/index.php/File/94-NoDelayedRedirect/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [One-Time-Username](http://beta.woltlab.com/filebase/index.php/File/67-One-Time-Username/) | [Maximilian Mader (Max)](http://max.bastelstu.be)
 [Paket installieren (Suchergebnisse)](http://beta.woltlab.com/filebase/index.php/File/107-Paket-installieren-Suchergebnisse-Erweitert/) | [Else](http://forum.elsesoft.org/)
 [Popups (ehemals Gästeinfo)](http://www.cls-design.com/forum/index.php?page=DatabaseItem&id=162) | [cls-design](http://www.cls-design.com)
 [Portal](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com) 
-[Profile Ban Info](http://beta.woltlab.com/filebase/index.php/File/50-Profile-Ban-Info/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [qWebIRC integration](http://beta.woltlab.com/filebase/index.php/File/56-qWebIRC-integration/) | [Jan Altensen (Stricted)](http://stricted.de/)
 [RecentActivity2](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
-[Replace URL By Name](http://beta.woltlab.com/filebase/index.php/File/38-Replace-URL-by-Name/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
-[Schneefall](http://beta.woltlab.com/filebase/index.php/File/113-Schneefall/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
-[Signature Link Control](http://beta.woltlab.com/filebase/index.php/File/48-WCF2-Signature-Link-Control/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [SocialLinks](http://www.gegeek.net/index.php/Thread/12-Plugin-Social/?action=firstNew) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
-[Social Share Privacy](http://beta.woltlab.com/filebase/index.php/File/114-Social-Share-Privacy/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [Spritmonitor für WCF2](http://beta.woltlab.com/filebase/index.php/File/86-Spritmonitor-f%C3%BCr-WCF2/) | [René Fritzsche (renegate98)](http://www.orlando-forum.de/)
 [Statistics](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [Thumbshots Vorschaubilder von Webseiten](http://www.pccenergie.de/index.php/Thread/8154-Thumbshots-Vorschaubilder-von-Webseiten/?postID=15817#post15817) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
@@ -62,7 +53,6 @@ Plugin | Entwickler
 [UserOnlineList (WBB3-Style)](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [VisitsAndHits](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [Warnhinheis bei veralteten Browsern](http://beta.woltlab.com/filebase/index.php/File/74-Warnhinheis-bei-veralteten-Browsern/) | [Florian Gail (MysteryCode)](http://www.mysterycode.de)
-[Weiterleitung nach der Registrierung](http://beta.woltlab.com/filebase/index.php/File/65-Weiterleitung-nach-der-Registrierung/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [WhoWasOnline](http://www.mobahner.com/wcf2test/db/index.php/List/2-Downloads/?sortID=0&sortOrder=DESC) | [nmichel](http://www.mobahner.com)
 [Willkommens-Nachricht für neue Benutzer](http://beta.woltlab.com/filebase/index.php/File/116-Willkommens-Nachricht-für-neue-Benutzer-Lite/) | [Else](http://forum.elsesoft.org)
 [wysiwygTools](http://sctools.de/wbb3/index.php?page=DownloadDBData&dataID=19) | [Christian Tandler (StoneCold)](http://sctools.de)
@@ -78,7 +68,6 @@ Plugin | Entwickler
 [Mehrere Ranggrafiken für das Wbb 4](http://beta.woltlab.com/filebase/index.php/File/104-Mehrere-Ranggrafiken-f%C3%BCr-das-Wbb-4/) | [Olaf Braun (Cyberghost)](http://wbb-elite.de/)
 [Thread Highlighting](http://beta.woltlab.com/filebase/index.php/File/68-Thread-Highlighting/) | [Marco Kittel (marco1705)](http://wcfplugins.de/)
 [Thread Status Icons (Font Awesome)](http://beta.woltlab.com/filebase/index.php/File/69-Thread-Status-Icons-Font-Awesome/) | [Marco Kittel (marco1705)](http://wcfplugins.de/)
-[WBB4 reCaptcha](http://beta.woltlab.com/filebase/index.php/File/123-WBB4-reCaptcha/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 
 ### Community Blog
 Plugin | Entwickler
@@ -111,7 +100,6 @@ Plugin | Entwickler
 [BBCode: Paket](http://wbb-center.de/download/index.php?page=Entry&entryID=783) | [norse](http://wbb-center.de)
 [BBCode: PDF](http://beta.woltlab.com/filebase/index.php/File/122-PDF-BBCode/) | [Stubs](http://wbb-center.net/)
 [BBCode: Progressbar](http://beta.woltlab.com/filebase/index.php/File/25-Progressbar-BBcode/) | [Colin Weber  (geramy92)](http://terratex.eu/)
-[BBCode: QR](http://beta.woltlab.com/filebase/index.php/File/43-QR-BBCode/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [BBCode: Quelle](http://www.mobahner.com/wcf2test/wbb/index.php/Thread/86-Quelle-BBCode/) | [dargott](http://www.wcf4you.com/)
 [BBCode: Tabmenu](http://beta.woltlab.com/filebase/index.php/File/27-BBCode-Tabmenu/) | [Michael Ilsemann (Michael Ils)](http://www.cafe-anime.de/)
 [BBCode: Tabmenu](http://beta.woltlab.com/filebase/index.php/File/31-Tabmenu-BBCode/) | [Colin Weber  (geramy92)](http://terratex.eu/)
@@ -163,7 +151,6 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Botcheck](https://github.com/wbbaddons/Botcheck) | [Markus Zhang (RouL)](http://codingcorner.info/) | WCF
 [Bugtracker](http://www.web-produktion.com/board/board1-allgemein/board31-nachrichten-und-ank%C3%BCndigungen/723-web-produktion-und-das-wcf-2-0-wbb-4-0/) | [web-produktion](http://www.web-produktion.com) | EA
 [cChat](http://beta.woltlab.com/index.php/Thread/1181-cChat-WIP/) | [Christopher Walz](http://www.cwalz.de/) | WCF
-[CKEditor-AutoSave-Plugin](http://beta.woltlab.com/filebase/index.php/File/73-CKEditor-AutoSave-Plugin/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/) | WCF 
 [Dateisystem] (http://beta.woltlab.com/index.php/Thread/4359-Dateisystem-0-1-by-Sick) | [sick^](http://beta.woltlab.com/index.php/User/750-Sick/) | EA
 [EasyLink v1](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6439) | [Cr@@gle](http://www.cls-design.com) | WCF
 [Easyslider v2](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6329) | [Cr@@gle](http://www.cls-design.com) | WCF
@@ -189,10 +176,8 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [SEO](http://beta.woltlab.com/index.php/Thread/3842-SEO-Plugin-Beta-1) | [Thomas Schlage (Sick^)](http://www.stagetwo.eu/) | WCF
 [SocialSharePrivacy](https://kittblog.com/board/board1-das-projekt/board42-das-kommt-bald/2786-social-share-privacy-2-klicks-f%C3%BCr-mehr-datenschutz-entwicklung/) | [Matthias Kittsteiner (BlackRider)](https://kittblog.com/) | WCF
 [SpendenPlugin](http://www.cwalz.de/forum/board1-wbb-wcf-plugins-designs-support/board18-paypal-spende-donation/616-spenden-plugin-fuer-das-wbb-4/)  | [Christopher Walz](http://www.cwalz.de/) | WCF
-[StopForumSpam](https://github.com/SoftCreatR/StopForumSpam) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/) | WCF
 [Tapatalk](https://github.com/tapatalk/wbb) | [Tapatalk](http://tapatalk.com/) | WBB
 [Teaser-Box 2](https://kittblog.com/board/board1-das-projekt/board42-das-kommt-bald/2631-teaser-box-2-entwicklung/) | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
-[Terms of use / Nutzungsbedingungen](https://github.com/SoftCreatR/TermsOfUse) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/) | WCF
 [Trophäen 2.0](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/) | WCF
 [Ultimate CMS](https://github.com/frmwrk123/de.plugins-zum-selberbauen.ultimate) | [frmwrk123 (Jim Martens)](http://www.plugins-zum-selberbauen.de/) | EA
 [Web Analytics](https://www.viecode.com/products/analytics/) | [VieCode](https://www.viecode.com/) | WCF
@@ -205,7 +190,6 @@ Paket | Entwickler
 [Dummy App](https://github.com/wbbaddons/Dummy-App) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [Faker](https://github.com/wbbaddons/Faker) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [jCounter](https://github.com/wbbaddons/jCounter) | [Maximilian Mader (Max)](http://max.bastelstu.be/)
-[MediaEmbed.js Integration](http://beta.woltlab.com/filebase/index.php/File/119-Entwickler-MediaEmbed-js-Integration/) | [Sascha Greuel (SoftCreatR)](http://softcreatr.de/)
 [nodePush](https://github.com/wbbaddons/nodePush) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)
 [PHPExcel](http://beta.woltlab.com/filebase/index.php/File/62-Entwicklerpaket-PHPExcel/) | [Magnus Kühn (MeinAccount)](http://beta.woltlab.com/index.php/User/225-MeinAccount/)
 [Paketserver](https://github.com/wbbaddons/Tims-PackageServer) | [Tim Düsterhus (TimWolla)](http://tims.bastelstu.be/)

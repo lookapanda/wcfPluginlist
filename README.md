@@ -154,7 +154,7 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Dateisystem] (http://beta.woltlab.com/index.php/Thread/4359-Dateisystem-0-1-by-Sick) | [sick^](http://beta.woltlab.com/index.php/User/750-Sick/) | EA
 [EasyLink v1](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6439) | [Cr@@gle](http://www.cls-design.com) | WCF
 [Easyslider v2](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6329) | [Cr@@gle](http://www.cls-design.com) | WCF
-[Einführungstour] (https://github.com/doenervich/com.thurnax.wcf.tour/)) | [Simon Nußbaumer (doenervich / Thurnax.com) (http://dev.thurnax.com) | WCF
+[Einführungstour] (https://github.com/doenervich/com.thurnax.wcf.tour/) | [Simon Nußbaumer (doenervich / Thurnax.com) (http://dev.thurnax.com) | WCF
 [Erfolgssystem 2.0](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/) | WCF
 [Externer Cronjob-Aufruf](http://beta.woltlab.com/filebase/index.php/File/51-Externer-Cronjob-Aufruf/) | [Dominik Auracher (dominik4545)](https://www.ltb-labs.de/) | WCF
 [FAQ](http://www.web-produktion.com/board/board1-allgemein/board31-nachrichten-und-ank%C3%BCndigungen/723-web-produktion-und-das-wcf-2-0-wbb-4-0/) | [web-produktion](http://www.web-produktion.com) | WCF

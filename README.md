@@ -10,7 +10,7 @@ Plugin | Entwickler
 [AboutUs](http://www.gegeek.net/index.php/Thread/11-AboutUs-plugin/?postID=13#post13) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
 [Additional Disclaimer](http://www.pccenergie.de/index.php/Thread/8529-Additional-Disclaimer-WBB4-Plugin/?postID=16481#post16481) | [Calogero Presti (Coolman)](http://www.pccenergie.de/)
 [AdvertismentSystem](http://www.gegeek.net/index.php/Thread/13-Plugin-syst%C3%A8me-de-publicit%C3%A9/?postID=15#post15) | [Christophe Asselin de Beauville (GeGeek)](http://www.gegeek.net/)
-[Battlefield Soldateninfo](http://beta.woltlab.com/filebase/index.php/File/100-Battlefield-Soldateninfo/) | [Simon Nußbaumer (doenervich)](http://board.thurnax.com/)
+[Battlefield Soldateninfo](http://beta.woltlab.com/filebase/index.php/File/100-Battlefield-Soldateninfo/) | [Simon Nußbaumer (doenervich / Thurnax.com)](http://dev.thurnax.com/)
 [Begrüßung Laufschrift](http://wbb-center.de/download/index.php?page=Entry&entryID=775) | [Sonlong](http://wbb-center.de/)
 [Benutzergruppe kopieren](https://jd-net.eu/filebase/index.php/File/6-Benutzergruppe-kopieren/) | [Marco Daries (JD-Net)](https://jd-net.eu)
 [Benutzerprofilfeld Minecraft](http://forum.krymonity.de/filebase/index.php/File/2-Benutzerprofilfeld-Minecraft/) | [Niklas Gerstner (Krymonota)](http://krymonity.de/)
@@ -154,6 +154,7 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Dateisystem] (http://beta.woltlab.com/index.php/Thread/4359-Dateisystem-0-1-by-Sick) | [sick^](http://beta.woltlab.com/index.php/User/750-Sick/) | EA
 [EasyLink v1](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6439) | [Cr@@gle](http://www.cls-design.com) | WCF
 [Easyslider v2](http://www.cls-design.com/forum/index.php?page=Thread&threadID=6329) | [Cr@@gle](http://www.cls-design.com) | WCF
+[Einführungstour] (https://github.com/doenervich/com.thurnax.wcf.tour/)) | [Simon Nußbaumer (doenervich / Thurnax.com) (http://dev.thurnax.com) | WCF
 [Erfolgssystem 2.0](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [DevLabor UG (haftungsbeschränkt)](http://devlabor.com/) | WCF
 [Externer Cronjob-Aufruf](http://beta.woltlab.com/filebase/index.php/File/51-Externer-Cronjob-Aufruf/) | [Dominik Auracher (dominik4545)](https://www.ltb-labs.de/) | WCF
 [FAQ](http://www.web-produktion.com/board/board1-allgemein/board31-nachrichten-und-ank%C3%BCndigungen/723-web-produktion-und-das-wcf-2-0-wbb-4-0/) | [web-produktion](http://www.web-produktion.com) | WCF
@@ -165,7 +166,7 @@ V-Collection | [Matthias Kittsteiner (Black Rider)](https://kittblog.com/) | WCF
 [Kundenbereich/Shop](https://www.viecode.com/support/board1-allgemein/board2-ank%C3%BCndigungen-und-updates/7934-wcf2-entwicklung/) | [VieCode](https://www.viecode.com/) | EA
 [LDAP Auth Extension](http://beta.woltlab.com/filebase/index.php/File/105-LDAP-Auth-Extensiom/) | [Jan Altensen (Stricted)](http://stricted.de/) | WCF
 [Mibbit Chat Integration](https://github.com/RouL/Mibbit_Chat_Integration) | [Markus Zhang (RouL)](http://codingcorner.info/) | WCF
-[Modale Konversationen](http://beta.woltlab.com/filebase/index.php/File/45-Modale-Konversationen/) | [Simon Nußbaumer (doenervich)](http://board.thurnax.com/) | WCF
+[Modale Konversationen](http://beta.woltlab.com/filebase/index.php/File/45-Modale-Konversationen/) | [Simon Nußbaumer (doenervich / Thurnax.com)](http://dev.thurnax.com/) | WCF
 [Moviezone](http://wbb-center.de/board/cNews/neuigkeiten-wbb-center/37/news-news-news/) | [Sonlong](http://wbb-center.de/) | WCF
 [Newsletter](http://www.guilded.eu/board1-allgemein/board3-nachrichten-und-ank%FCndigungen/1621-ausblick-wbb-4-0-wcf-2-0-unsere-produkte/) | [Jeffrey Reichardt (Kiv)](http://guilded.eu/) | WCF
 [Paketserver](https://www.viecode.com/support/board1-allgemein/board2-ank%C3%BCndigungen-und-updates/7934-wcf2-entwicklung/) | [VieCode](https://www.viecode.com/) | ?
